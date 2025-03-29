@@ -1,0 +1,12 @@
+
+a {
+    
+    font-size: 20px;
+}
+
+a.tuda {
+    color: black;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}

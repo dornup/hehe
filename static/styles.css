@@ -1,0 +1,29 @@
+body {
+    color: bisque;
+}
+
+a, p, h1 {
+    color: rgb(115, 67, 57);
+
+}
+
+a, p {
+    font-size: 20px;
+}
+
+h1 {
+   text-align: center;
+   font-size: 50px; 
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
