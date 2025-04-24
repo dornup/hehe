@@ -2,6 +2,14 @@ body {
     color: rgb(229, 178, 163);
 }
 
+
+.comfortaa {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10;
+    font-style: normal;
+  }
+
 a, p, h1 {
     color: rgb(115, 67, 57);
 
