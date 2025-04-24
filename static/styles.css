@@ -43,7 +43,7 @@ div .img {
     align-items: center;
     border-width: 8px;
     border-radius: 24px;
-    border-color: #bb6c69;
+    background-color: #bb6c69;
 }
 img {
     height: 300px;
