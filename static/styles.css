@@ -1,5 +1,5 @@
 body {
-    color: rgb(229, 199, 163);
+    color: rgb(229, 178, 163);
 }
 
 a, p, h1 {
@@ -8,7 +8,7 @@ a, p, h1 {
 }
 
 a, p {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
 }
 
